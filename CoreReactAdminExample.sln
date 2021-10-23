@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreReactAdminExample", "CoreReactAdminExample\CoreReactAdminExample.csproj", "{AC0336F9-6A78-4C0C-8C4E-ED6E55401E3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC0336F9-6A78-4C0C-8C4E-ED6E55401E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0336F9-6A78-4C0C-8C4E-ED6E55401E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0336F9-6A78-4C0C-8C4E-ED6E55401E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0336F9-6A78-4C0C-8C4E-ED6E55401E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E61AA21-BBE1-4EB6-A946-57E93AF6458B}
+	EndGlobalSection
+EndGlobal
